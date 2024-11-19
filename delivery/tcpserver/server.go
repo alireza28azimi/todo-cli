@@ -102,4 +102,3 @@ func main() {
 		connection.Close()
 	}
 }
-git remote add origin https://github.com/alireza28azimi/todo-cli.git
